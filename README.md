@@ -6,7 +6,7 @@ see: https://www.kaggle.com/c/amazon-employee-access-challenge
 
 and: https://www.kaggle.com/c/amazon-employee-access-challenge/leaderboard/private
 
-Also included is an <b>ipython notebook</b> intended as a practical introduction to scitkit learn and the random forest algorithm.
+Also included is an <b>ipython notebook</b> that uses the same data. I used this notebook to present a practical introduction to scitkit learn and the random forest algorithm to the Pittsburgh Python User Meetup group.
 
 About the Data: 
 The goal was to predict employee resource access grants from categorical job description data. The scoring metric is AUC (area under the ROC curve).  There are only 9 categorical input feature columns, one of which is completely redundant.  There are roughly 30,000 training rows and 50,000 test rows.
